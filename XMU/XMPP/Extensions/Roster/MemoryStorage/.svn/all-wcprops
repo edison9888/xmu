@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage
+END
+XMPPRosterMemoryStoragePrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPRosterMemoryStoragePrivate.h
+END
+XMPPUserMemoryStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPUserMemoryStorageObject.m
+END
+XMPPResourceMemoryStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPResourceMemoryStorageObject.h
+END
+XMPPRosterMemoryStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPRosterMemoryStorage.h
+END
+XMPPResourceMemoryStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPResourceMemoryStorageObject.m
+END
+XMPPRosterMemoryStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPRosterMemoryStorage.m
+END
+XMPPUserMemoryStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Extensions/Roster/MemoryStorage/XMPPUserMemoryStorageObject.h
+END

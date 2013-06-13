@@ -1,0 +1,77 @@
+10
+
+dir
+41
+https://xd_lxg@svn.nhaidu.net:9527/svn/dongxm_xd/ios/branches/1.0/XMU/XMPP/Vendor
+https://xd_lxg@svn.nhaidu.net:9527/svn/dongxm_xd
+
+
+
+2013-06-08T04:37:07.769000Z
+20
+xd_lxg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d03c3bf4-d1f0-c44c-9f87-d54961b2cdd0
+
+facebook-ios-sdk
+dir
+
+libidn.a
+file
+
+
+
+
+2013-06-09T12:00:40.000000Z
+b714b84a4f6e58570ae39b2e7c644000
+2013-06-08T04:37:07.769000Z
+20
+xd_lxg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1041136
+
+libidn
+dir
+
+CocoaLumberjack
+dir
+
+KissXML
+dir
+
+CocoaAsyncSocket
+dir
+

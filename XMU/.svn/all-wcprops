@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dongxm_xd/!svn/ver/41/ios/branches/1.0/XMU
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/main.m
+END
+XMUAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dongxm_xd/!svn/ver/32/ios/branches/1.0/XMU/XMUAppDelegate.m
+END
+Default@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dongxm_xd/!svn/ver/41/ios/branches/1.0/XMU/Default@2x.png
+END
+XMUViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dongxm_xd/!svn/ver/32/ios/branches/1.0/XMU/XMUViewController.m
+END
+Icon@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dongxm_xd/!svn/ver/39/ios/branches/1.0/XMU/Icon@2x.png
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dongxm_xd/!svn/ver/41/ios/branches/1.0/XMU/Default.png
+END
+XMUViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/35/ios/branches/1.0/XMU/XMUViewController.xib
+END
+Default-568h@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dongxm_xd/!svn/ver/41/ios/branches/1.0/XMU/Default-568h@2x.png
+END
+XMUAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dongxm_xd/!svn/ver/32/ios/branches/1.0/XMU/XMUAppDelegate.h
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dongxm_xd/!svn/ver/39/ios/branches/1.0/XMU/Icon.png
+END
+XMU-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dongxm_xd/!svn/ver/41/ios/branches/1.0/XMU/XMU-Info.plist
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dongxm_xd/!svn/ver/32/ios/branches/1.0/XMU/MainWindow.xib
+END
+XMU-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dongxm_xd/!svn/ver/25/ios/branches/1.0/XMU/XMU-Prefix.pch
+END
+XMUViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dongxm_xd/!svn/ver/32/ios/branches/1.0/XMU/XMUViewController.h
+END

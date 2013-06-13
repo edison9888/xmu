@@ -1,0 +1,112 @@
+//
+//  FirstViewController.m
+//  XMU
+//
+//  Created by lihj on 13-6-6.
+//  Copyright (c) 2013年 林小果. All rights reserved.
+//
+
+#import "FirstViewController.h"
+#import "EGOImageView.h"
+#import "WelcomeVC.h"
+#import "FriendsBtn.h"
+
+@interface FirstViewController ()
+
+@end
+
+@implementation FirstViewController
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+    }
+    return self;
+}
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    // Do any additional setup after loading the view from its nib.
+    
+//    if (USERINFO.isLogin == YES) {
+//        self.hidesBottomBarWhenPushed = YES;
+//        
+//        WelcomeVC *vc = [[WelcomeVC alloc] initWithNibName:@"WelcomeVC" bundle:nil];
+//        self.hidesBottomBarWhenPushed = YES;
+//        [self.navigationController pushViewController:vc animated:YES];
+//        
+//        return;
+//    }
+    self.title = @"推荐校友";
+    [self setLBtn:nil image:@"顶部按钮-左边策划" imageSel:@"back_bg" target:self action:@selector(leftClick)];
+    [self setRBtn:nil image:@"ico-右边更多" imageSel:@"back_bg" target:self action:@selector(rightClick)];
+    
+    _pageControl.numberOfPages = 4;
+    [self addImage];
+    [self addFridens];
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+- (void)viewDidUnload {
+    
+    _scrollViewTop = nil;
+    _pageControl = nil;
+    _scrollViewBottom = nil;
+    [super viewDidUnload];
+}
+
+- (void)leftClick {
+    
+}
+
+- (void)rightClick {
+    
+}
+
+- (void)addImage {
+    for (int i=0; i<4; i++) {
+        EGOImageView *banner = [[EGOImageView alloc] initWithFrame:CGRectMake(_scrollViewTop.frame.size.width * i, 0, _scrollViewTop.frame.size.width, _scrollViewTop.frame.size.height)];
+        [banner setImageURL:[NSURL URLWithString:@"http://file2.desktx.com/pc/wallpaper/objects/20100802/lunchuan_desktx_1.jpg"]];
+        [_scrollViewTop addSubview:banner];
+    }
+    [_scrollViewTop setContentSize:CGSizeMake(_scrollViewTop.frame.size.width * 4, _scrollViewTop.frame.size.height)];
+}
+
+- (void)addFridens {
+    int t_X = 5;
+    int t_Y = 0;
+    for (int i=0; i<9; i++) {
+        t_Y = i/3;
+        FriendsBtn *friend = [[FriendsBtn alloc] initWithNibName:@"FriendsBtn" bundle:nil];
+        [friend setImage:@"http://c.hiphotos.baidu.com/album/w%3D2048/sign=b95dbbdffd039245a1b5e60fb3aca5c2/5bafa40f4bfbfbedd1f77b6d79f0f736afc31f71.jpg"];
+        [friend setNameTxt:@"罗伯特"];
+        [friend setWorkTxt:@"腾讯CEO"];
+        [friend.view SetFrameX:t_X*(i%3+1) + i%3*100];
+        [friend.view SetFrameY:5*(t_Y+1) + t_Y*130];
+        DLog(@"%d", 5*(t_Y+1) + t_Y*130);
+        [_scrollViewBottom addSubview:friend.view];
+    }
+    [_scrollViewBottom SetFrameHeight:__MainScreen_Height - 120 - 44 - 49];
+    [_scrollViewBottom setContentSize:CGSizeMake(_scrollViewBottom.frame.size.width, 135*3)];
+}
+
+- (void)scrollViewDidEndDecelerating:(UIScrollView *)t_scrollView {
+    if (t_scrollView == _scrollViewTop) {
+        int currentPage = floor((t_scrollView.contentOffset.x - t_scrollView.frame.size.width / 2) /  t_scrollView.frame.size.width) + 1;
+        _pageControl.currentPage = currentPage;
+    }
+    else {
+        
+    }
+
+}
+
+@end

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities
+END
+RFImageToDataTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/RFImageToDataTransformer.h
+END
+XMPPIDTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/XMPPIDTracker.h
+END
+GCDMulticastDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/GCDMulticastDelegate.h
+END
+RFImageToDataTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/RFImageToDataTransformer.m
+END
+LibIDN.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/LibIDN.h
+END
+XMPPSRVResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/XMPPSRVResolver.h
+END
+XMPPIDTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/XMPPIDTracker.m
+END
+DDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/DDList.h
+END
+GCDMulticastDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/GCDMulticastDelegate.m
+END
+LibIDN.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/LibIDN.m
+END
+XMPPSRVResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/XMPPSRVResolver.m
+END
+DDList.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Utilities/DDList.m
+END

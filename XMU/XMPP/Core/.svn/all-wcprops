@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core
+END
+XMPPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPMessage.h
+END
+XMPPModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPModule.h
+END
+XMPPLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPLogging.h
+END
+XMPPElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPElement.h
+END
+XMPPMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPMessage.m
+END
+XMPPModule.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPModule.m
+END
+XMPPStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPStream.h
+END
+XMPPParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPParser.h
+END
+XMPPElement.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPElement.m
+END
+XMPPStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPStream.m
+END
+XMPPParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPParser.m
+END
+XMPPPresence.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPPresence.h
+END
+XMPPJID.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPJID.h
+END
+XMPPPresence.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPPresence.m
+END
+XMPPIQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPIQ.h
+END
+XMPPJID.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPJID.m
+END
+XMPPInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPInternal.h
+END
+XMPPIQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPPIQ.m
+END
+XMPP.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Core/XMPP.h
+END

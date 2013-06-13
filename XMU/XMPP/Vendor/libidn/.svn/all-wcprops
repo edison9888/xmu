@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dongxm_xd/!svn/ver/7/ios/branches/1.0/XMU/XMPP/Vendor/libidn
+END
+stringprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dongxm_xd/!svn/ver/7/ios/branches/1.0/XMU/XMPP/Vendor/libidn/stringprep.h
+END
+build-libidn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dongxm_xd/!svn/ver/7/ios/branches/1.0/XMU/XMPP/Vendor/libidn/build-libidn.sh
+END
+idn-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dongxm_xd/!svn/ver/7/ios/branches/1.0/XMU/XMPP/Vendor/libidn/idn-int.h
+END

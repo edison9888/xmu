@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack
+END
+DDLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDLog.h
+END
+DDASLLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDASLLogger.m
+END
+DDFileLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDFileLogger.m
+END
+DDTTYLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDTTYLogger.m
+END
+DDLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDLog.m
+END
+DDAbstractDatabaseLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.h
+END
+DDAbstractDatabaseLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.m
+END
+DDASLLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDASLLogger.h
+END
+DDFileLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDFileLogger.h
+END
+DDTTYLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dongxm_xd/!svn/ver/5/ios/branches/1.0/XMU/XMPP/Vendor/CocoaLumberjack/DDTTYLogger.h
+END
